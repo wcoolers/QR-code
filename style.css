@@ -22,16 +22,7 @@ body {
     box-shadow: 0 0 15px rgba(100, 100, 100, 0.3);
     flex-direction: column;
     width: 90%;
-}
-@media (min-width: 426px) {
-    .container {
-        width: 50%;
-    }
-}
-@media (min-width: 770px) {
-    .container {
-        width: 30%;
-    }
+    max-width: 380px;
 }
 .input {
     padding: 12px 20px;
