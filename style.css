@@ -23,7 +23,7 @@ body {
     flex-direction: column;
     width: 90%;
 }
-/* @media (min-width: 426px) {
+@media (min-width: 426px) {
     .container {
         width: 50%;
     }
@@ -32,7 +32,7 @@ body {
     .container {
         width: 30%;
     }
-} */
+}
 .input {
     padding: 12px 20px;
     border: 1px solid #485696;
